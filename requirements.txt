@@ -1,0 +1,5 @@
+pandas
+prefect
+prefect_gcp
+urllib
+pathlib
